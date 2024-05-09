@@ -2433,19 +2433,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\professor.cetafest\\.nuget\\packages\\": {}
+    "C:\\Users\\fusion\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\professor.cetafest\\Documents\\trabalho\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\csharpCamadas.API.csproj",
+      "projectUniqueName": "C:\\Users\\fusion\\Documents\\GitHub\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\csharpCamadas.API.csproj",
       "projectName": "csharpCamadas.API",
-      "projectPath": "C:\\Users\\professor.cetafest\\Documents\\trabalho\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\csharpCamadas.API.csproj",
-      "packagesPath": "C:\\Users\\professor.cetafest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\professor.cetafest\\Documents\\trabalho\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\obj\\",
+      "projectPath": "C:\\Users\\fusion\\Documents\\GitHub\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\csharpCamadas.API.csproj",
+      "packagesPath": "C:\\Users\\fusion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fusion\\Documents\\GitHub\\csharpCamadas\\csharpCamadas.SOLUTION\\csharpCamadas.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\professor.cetafest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
